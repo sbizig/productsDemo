@@ -1,3 +1,3 @@
 # productsDemo
 Project Demo :
-angular express nodejs  mysql project demo
+angular express nodejs  mysql project
